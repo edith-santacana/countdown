@@ -11,7 +11,7 @@ project/milestone.
 1. Create a GoogleSheet: follow this [template](https://docs.google.com/spreadsheets/d/1WFVl18zdfmz2OXNNF03f5_X_pQYyZHYd7Qvzo-gqCzc/edit#gid=0)
 
 2. in `config.js`:
-- add your API key
+- add your API key. (More info, check out these links: [GoogleSheetsAPI](https://developers.google.com/sheets/api) & [Basic Reading](https://developers.google.com/sheets/api/samples/reading))
 - add your [SpreadSheet Id](https://www.wp-tweaks.com/wp-content/uploads/2018/05/spreadsheet-id-550x327.jpg)
 
 3. Open the Countdown App and visualize the remaining time to your milestones.
