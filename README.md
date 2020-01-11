@@ -35,7 +35,7 @@ Combining that with the sense of urgency, you become _unstoppable_.
 ## Usage
 
 ## Setup
-in config.js:
+in `config.js`:
 - add your API key
 - add your SpreadSheet Id
 
