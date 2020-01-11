@@ -5,41 +5,16 @@ project/milestone.
 
 <img src="./src/img/countdown.gif" alt="countdown" width="400"/>
 
-## Features
-
-### Sense of Urgency — Importance requiring swift action
-
-Every minute and second that passed created a higher sense of urgency to get
-that special milestone done. Countdown is a great compliment to the Urgency
-Matrix.
-
-<img src="./src/img/urgency-matrix.png" alt="urgency-matrix" width="400"/>
-
-With Countdown your tasks and projects will automatically jump from one quadrant
-to the next. If you have quarterly reports that are due in a month, they fall in
-the Important but not Urgent Quadrant but as the days and weeks pass, they move
-into the Urgent and Important quadrant.
-Setting the countdown ahead of time will allow you to keep track of this
-movement and be prepared as the due date quickly approaches.
-
-### Motivation — The general desire or willingness of someone to do something
-
-No one wants to miss something important like your marathon time by 3 seconds or
-the bus by 10 seconds. Knowing how much time is left to your goal time or making
-the bus on time is pure motivation to get it done quicker or get there faster.
-Why should your to dos be any different?
-
-Combining that with the sense of urgency, you become _unstoppable_.
-**3, 2, 1…your task is done.**
-
 ## Usage
 
-## Setup
-in `config.js`:
+### Setup
+1. Create a GoogleSheet: follow this [template](https://docs.google.com/spreadsheets/d/1WFVl18zdfmz2OXNNF03f5_X_pQYyZHYd7Qvzo-gqCzc/edit#gid=0)
+
+2. in `config.js`:
 - add your API key
 - add your [SpreadSheet Id](https://www.wp-tweaks.com/wp-content/uploads/2018/05/spreadsheet-id-550x327.jpg)
 
-### How to use?
+3. Open the Countdown App and visualize the remaining time to your milestones.
 
 ### How to add or delete a Milestone?
 
@@ -85,3 +60,30 @@ This project:
 ## Credits
 
 Special thanks to zFunx for his [css background animation](https://www.youtube.com/watch?v=4UvWpjSRrm0), Florin Pop for his [tutorial](https://www.florin-pop.com/blog/2019/05/countdown-built-with-react/) about how to make a coutdown component with React and Sergiy Dybskiy for his [tutorial](https://blog.416serg.me/building-an-app-using-google-sheets-api-react-d69681d22ce1) to build a React App with Google Sheets API.
+
+## Features
+
+### Sense of Urgency — Importance requiring swift action
+
+Every minute and second that passed created a higher sense of urgency to get
+that special milestone done. Countdown is a great compliment to the Urgency
+Matrix.
+
+<img src="./src/img/urgency-matrix.png" alt="urgency-matrix" width="400"/>
+
+With Countdown your tasks and projects will automatically jump from one quadrant
+to the next. If you have quarterly reports that are due in a month, they fall in
+the Important but not Urgent Quadrant but as the days and weeks pass, they move
+into the Urgent and Important quadrant.
+Setting the countdown ahead of time will allow you to keep track of this
+movement and be prepared as the due date quickly approaches.
+
+### Motivation — The general desire or willingness of someone to do something
+
+No one wants to miss something important like your marathon time by 3 seconds or
+the bus by 10 seconds. Knowing how much time is left to your goal time or making
+the bus on time is pure motivation to get it done quicker or get there faster.
+Why should your to dos be any different?
+
+Combining that with the sense of urgency, you become _unstoppable_.
+**3, 2, 1…your task is done.**
