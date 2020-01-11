@@ -5,6 +5,11 @@ project/milestone.
 
 <img src="./src/img/countdown.gif" alt="countdown" width="400"/>
 
+## Setup
+in config.js:
+- add your API key
+- add your SpreadSheet Id
+
 ## Features
 
 ### Sense of Urgency — Importance requiring swift action
