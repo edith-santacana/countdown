@@ -82,7 +82,7 @@ This project:
 
 - was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 - uses [Semantic UI React](https://react.semantic-ui.com/usage) for css styling
-- works with the [Google Sheets Api](https://developers.google.com/sheets/api) to fetch data from a Google Sheets that contains Loft Orbital major milestones.
+- works with the [Google Sheets Api](https://developers.google.com/sheets/api) to fetch data from a Google Sheets that contains major milestones.
 
 ## Credits
 
