@@ -49,18 +49,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Tech/Framework used
-
-This project:
-
-- was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
-- uses [Semantic UI React](https://react.semantic-ui.com/usage) for css styling
-- works with the [Google Sheets Api](https://developers.google.com/sheets/api) to fetch data from a Google Sheets that contains Loft Orbital major milestones.
-
-## Credits
-
-Special thanks to zFunx for his [css background animation](https://www.youtube.com/watch?v=4UvWpjSRrm0), Florin Pop for his [tutorial](https://www.florin-pop.com/blog/2019/05/countdown-built-with-react/) about how to make a coutdown component with React and Sergiy Dybskiy for his [tutorial](https://blog.416serg.me/building-an-app-using-google-sheets-api-react-d69681d22ce1) to build a React App with Google Sheets API.
-
 ## Features
 
 ### Sense of Urgency — Importance requiring swift action
@@ -87,3 +75,15 @@ Why should your to dos be any different?
 
 Combining that with the sense of urgency, you become _unstoppable_.
 **3, 2, 1…your task is done.**
+
+## Tech/Framework used
+
+This project:
+
+- was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+- uses [Semantic UI React](https://react.semantic-ui.com/usage) for css styling
+- works with the [Google Sheets Api](https://developers.google.com/sheets/api) to fetch data from a Google Sheets that contains Loft Orbital major milestones.
+
+## Credits
+
+Special thanks to zFunx for his [css background animation](https://www.youtube.com/watch?v=4UvWpjSRrm0), Florin Pop for his [tutorial](https://www.florin-pop.com/blog/2019/05/countdown-built-with-react/) about how to make a coutdown component with React and Sergiy Dybskiy for his [tutorial](https://blog.416serg.me/building-an-app-using-google-sheets-api-react-d69681d22ce1) to build a React App with Google Sheets API.
