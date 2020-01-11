@@ -5,11 +5,6 @@ project/milestone.
 
 <img src="./src/img/countdown.gif" alt="countdown" width="400"/>
 
-## Setup
-in config.js:
-- add your API key
-- add your SpreadSheet Id
-
 ## Features
 
 ### Sense of Urgency — Importance requiring swift action
@@ -39,15 +34,16 @@ Combining that with the sense of urgency, you become _unstoppable_.
 
 ## Usage
 
-### How to use?
+## Setup
+in config.js:
+- add your API key
+- add your SpreadSheet Id
 
-In your browser (we recommend using Chrome), enter the following url:
-https://countdown.loftorbital.com and sign in with your loftorbital account.
-That's it.
+### How to use?
 
 ### How to add or delete a Milestone?
 
-Go to the Google Sheets to add or delete a milestone.
+Go to your Google Sheets to add or delete a milestone.
 Note: future versions will support add/delete/modify directly from the Countdown
 App. Stay tuned.
 
