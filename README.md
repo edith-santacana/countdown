@@ -37,7 +37,7 @@ Combining that with the sense of urgency, you become _unstoppable_.
 ## Setup
 in `config.js`:
 - add your API key
-- add your SpreadSheet Id
+- add your [SpreadSheet Id](https://www.wp-tweaks.com/wp-content/uploads/2018/05/spreadsheet-id-550x327.jpg)
 
 ### How to use?
 
